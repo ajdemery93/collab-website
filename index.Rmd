@@ -19,7 +19,9 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+## Including Plots of Marcus Rashford
+
+![](https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/gqxggfb1vvt8ktbhrbtm/rashford)
 
 You can also embed plots, for example:
 
