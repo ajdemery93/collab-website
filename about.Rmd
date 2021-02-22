@@ -1,0 +1,12 @@
+---
+title: "about"
+author: "Amelia"
+date: "2/22/2021"
+output: html_document
+---
+
+### About Amelia and Monique
+
+Future roommates,co-authors, Sloan fellows.
+Forever and always
+Mariah Carey and Beyonce.
