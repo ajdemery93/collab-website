@@ -1,6 +1,6 @@
 ---
 title: "Our Website"
-author: "Monique Pipkin"
+author: "Monique Pipkin & Amelia-Juliette Demery"
 date: "2/22/2021"
 output: html_document
 ---
@@ -8,6 +8,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEe6uth6XaV7Uu9TJM9u2LIK88f4-u5h7Ag&usqp=CAU)
+
 
 ## R Markdown
 
